@@ -1,6 +1,6 @@
-#Poke Shop
+#App React - Poke Shop
 
-Crea una tienda de Pokemons, debes usar: 
+Tienda de Pokemons, contiene: 
 
 - Props
 - Hooks
