@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  flex-direction: column;
+  background-image: url(../public/imgs/leaf_background.png);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
